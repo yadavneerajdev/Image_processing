@@ -11,8 +11,8 @@ Follow the steps below to get the server running locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <project-root-directory>
+git clone https://github.com/yadavneerajdev/Image_processing.git
+cd Image_processing
 ```
 
 2. Create a Virtual Environment
